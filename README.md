@@ -1,2 +1,2 @@
-.github
+# .github
 ESOL Education Repository
